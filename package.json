@@ -1,5 +1,5 @@
 {
-  "name": "@devrecipe/meshinum",
+  "name": "meshinum",
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
@@ -10,5 +10,13 @@
   "scripts": {},
   "author": "Devrecipe, Ltd.",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devrecipe/meshinum.git"
+  },
+  "bugs": {
+    "url": "https://github.com/devrecipe/meshinum/issues"
+  },
+  "homepage": "https://github.com/devrecipe/meshinum#readme"
 }
