@@ -1,3 +1,7 @@
+#!/usr/bin/env node
+
+'use strict'
+
 var sqlite3 = require('sqlite3')
 var db = new sqlite3.Database('meshinum.db3')
 var args = process.argv.slice(2)
@@ -35,7 +39,7 @@ db.serialize(function() {
         break;
 
         default:
-            console.log('Command not found')
+            console.log('Welcome to Meshinum')
             console.log('Please run "meshinum help" to get list of available commands')
         break
     }
