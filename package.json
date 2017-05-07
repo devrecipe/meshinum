@@ -1,0 +1,14 @@
+{
+  "name": "@devrecipe/meshinum",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "hat": "0.0.3",
+    "sqlite3": "^3.1.8"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "author": "Devrecipe, Ltd.",
+  "license": "ISC",
+  "description": ""
+}
